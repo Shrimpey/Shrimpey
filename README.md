@@ -1,9 +1,12 @@
 ![Shrimp horizontal background](/horizontal_image.jpg?raw=true)
 
-<br />
+## Currently working on:
 
-### Current gamedev project
+---
 
-- **Name:** WIP
-- **Type:** Arcadish space shooter game with infinite universe
-- **Release date:** Q1 2k21
+#### Gamedev stuff
+* **Name:** WIP
+* **Type:** Arcadish space shooter game with infinite universe
+* **Release date:** Q1 2k21
+
+---
