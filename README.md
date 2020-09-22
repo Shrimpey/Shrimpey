@@ -1,5 +1,5 @@
 ### Sup 👋
 
-[[/horizontal_image.jpg|Shrimp horizontal image]]
+[Shrimp horizontal image](/horizontal_image.jpg "Shrimp horizontal image")
 
 <br />
