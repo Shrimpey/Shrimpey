@@ -11,6 +11,7 @@
 
 ![Antropy panel](/NAME_webpage_color_highRes.jpg?raw=true)
 
-[**See latest info about Antropy**](https://www.facebook.com/AntropyGame/)
+[**www.antropy.space**](http://www.antropy.space/)
+[See latest info about Antropy on FB](https://www.facebook.com/AntropyGame/)
 
 ---
