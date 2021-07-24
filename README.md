@@ -2,10 +2,8 @@
 
 ## Currently working on:
 
----
-
-### Antropy game
-Antropy is an arcade-ish 2.5D topdown space shooter game with infinite universe. It's planned to be released in the second quarter of 2021. More information to come, track progress with the links below 👇
+### Antropy
+Antropy is an arcade-ish 2.5D topdown space shooter game with infinite universe. More information to come, track progress with the links below 👇
 
 ![Antropy panel](/GitHub_BG.jpg?raw=true)
 
@@ -13,4 +11,3 @@ Antropy is an arcade-ish 2.5D topdown space shooter game with infinite universe.
 
 [<p align="center">See latest info about Antropy on FB</p>](https://www.facebook.com/AntropyGame/)
 
----
