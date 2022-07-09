@@ -1,13 +1,17 @@
-![Shrimp horizontal background](/horizontal_image.jpg?raw=true)
+![Shrimp horizontal background](/BG.jpg?raw=true)
 
 ## Currently working on:
 
-### Antropy
-Antropy is an arcade-ish 2.5D topdown space shooter game with infinite universe. More information to come, track progress with the links below 👇
+![Grimoire](/02Grimoire.jpg?raw=true)
 
-![Antropy panel](/GitHub_BG.jpg?raw=true)
+Grimoire is a 2D, pixel art style local versus mage fighter. More info coming soon...
 
-[<p align="center">**www.antropy.space**</p>](http://www.antropy.space/)
+![Antropy panel](/03TTABS.jpg?raw=true)
 
-[<p align="center">See latest info about Antropy on FB</p>](https://www.facebook.com/AntropyGame/)
+TTABS is a modular menu and header bar system for Unity. Will be coming to Asset Store soon.
+
+![Antropy panel](/01Antropy.jpg?raw=true)
+
+Antropy is a 2.5D space shooter with procedural, infinite universe. Project currently on hold. [**www.antropy.space**](http://www.antropy.space/)
+
 
